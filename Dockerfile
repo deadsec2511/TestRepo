@@ -3,4 +3,4 @@ MAINTAINER Pranay Bafna
 
 CMD ["echo", "Hello World! This is Bafna!"]
 
-CMD ["echo", "This is new push at 2:39PM IST"]
+CMD ["echo", "This is NEW PUSH at 2:57PM IST"]
